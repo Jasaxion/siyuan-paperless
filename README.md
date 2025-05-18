@@ -18,10 +18,12 @@ This plugin allows you to easily upload resource files from SiYuan Note to your 
 
 4. Click "Test Connection" to check if the server can be connected successfully.
 
-## Features
+## Features:
 
-1. Automatically incrementally upload document resources to the PaperLess server;
-2. Manually upload individual resources to PaperLess by right-clicking on the file;
-3. PaperLess server handles documents automatically (including metadata indexing, tagging, OCR, etc.—ensure proper configuration on the PaperLess side).
+1. Automatically upload documents incrementally to the PaperLess server.
+2. Automatically detect already uploaded files to avoid overwriting. Overwriting uploads involve deletion permissions and carry risks. If you need to overwrite or delete documents, it is recommended to manually remove them from the PaperLess document library.
+3. Manually upload resource files to the PaperLess server via right-click menu.
+4. The PaperLess server automatically processes documents, including metadata indexing, tagging, OCR, and other operations (you need to configure these properly on the PaperLess server side).
+
 
 If you find this plugin helpful, consider giving it a ⭐️ on GitHub. Thanks!

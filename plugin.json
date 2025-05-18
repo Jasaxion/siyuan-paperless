@@ -22,7 +22,7 @@
   ],
   "displayName": {
     "default": "Siyuan Paperless",
-    "zh_CN": "Siyuan PaperLess集成"
+    "zh_CN": "Siyuan PaperLess文档库"
   },
   "description": {
     "default": "This plugin integrates PaperLess with SiYuan Note, enabling seamless uploading of local resource files to your personal PaperLess document library.",

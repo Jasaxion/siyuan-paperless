@@ -1,7 +1,7 @@
 {
-  "name": "plugin-sample",
-  "version": "0.4.0",
-  "description": "This is a sample plugin for Siyuan (https://b3log.org/siyuan)",
+  "name": "siyuan-paperless",
+  "version": "0.1.0",
+  "description": "This plugin integrates PaperLess with SiYuan Note, enabling seamless uploading of local resource files to your personal PaperLess document library.",
   "main": ".src/index.js",
   "scripts": {
     "lint": "eslint . --fix --cache",
